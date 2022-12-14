@@ -1,6 +1,7 @@
 # 2kChickensV1Knight
 Final Project for ANM Fall 2022
 
+By: Kathryn Hise, Madison Meador, Theodore Mirimo Nganizi
 
 ## Validation Case
 [Validation Example Case Code](FINAL_HISTORICAL_BATTLE.ipynb)
