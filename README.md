@@ -16,9 +16,9 @@ By: Kathryn Hise, Madison Meador, Theodore Mirimo Nganizi
 ## Model Creation
 [Chickens vs Kinights](Guess_and_Check_for_the_Model_Chickens_and_Knights.ipynb)
 
-[Penguins vs Santas](Penguin_vs_Knights.ipynb)
+[Penguins vs Santas](Penguin_vs_Santa.ipynb)
 
 [Chickens vs Santas]
 
 ## Predictions 
-[Penguins vs Knights]
+[Penguins vs Knights](Penguin_vs_Knights.ipynb)
