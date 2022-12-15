@@ -18,7 +18,7 @@ By: Kathryn Hise, Madison Meador, Theodore Mirimo Nganizi
 
 [Penguins vs Santas](Penguin_vs_Santa.ipynb)
 
-[Chickens vs Santas]
+[Chickens vs Santas](Chickens_vs_Santas.ipynb)
 
 ## Predictions 
 [Penguins vs Knights](Penguin_vs_Knights.ipynb)
