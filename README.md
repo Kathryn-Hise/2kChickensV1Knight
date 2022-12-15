@@ -23,5 +23,6 @@ By: Kathryn Hise, Madison Meador, Theodore Mirimo Nganizi
 ## Predictions 
 * [Penguins vs Knights](Penguin_vs_Knights.ipynb)
 
-## Presentation
-[Powerpoint Link](https://docs.google.com/presentation/d/1_HuBLA8ACb4mtjuBdI6Bzi95uaud7yhclkmHyCF1uDs/edit?usp=sharing)
+## Presentations
+* [Powerpoint Link](https://docs.google.com/presentation/d/1_HuBLA8ACb4mtjuBdI6Bzi95uaud7yhclkmHyCF1uDs/edit?usp=sharing)
+* [Project Proposal](https://docs.google.com/document/d/1D1QSP7msJWjuPYKB4YeJZtnw6qB8iQmqGJ12BAEx_c0/edit?usp=sharing)
