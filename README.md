@@ -14,14 +14,14 @@ By: Kathryn Hise, Madison Meador, Theodore Mirimo Nganizi
 * [Single Battles over Time](https://docs.google.com/spreadsheets/d/1fdog_Y6rOIFZgYqns748L9GF40UxSJnSLLhL12wL1vc/edit#gid=0)
 
 ## Model Creation
-[Chickens vs Kinights](Guess_and_Check_for_the_Model_Chickens_and_Knights.ipynb)
+* [Chickens vs Kinights](Guess_and_Check_for_the_Model_Chickens_and_Knights.ipynb)
 
-[Penguins vs Santas](Penguin_vs_Santa.ipynb)
+* [Penguins vs Santas](Penguin_vs_Santa.ipynb)
 
-[Chickens vs Santas](Chickens_vs_Santas.ipynb)
+* [Chickens vs Santas](Chickens_vs_Santas.ipynb)
 
 ## Predictions 
-[Penguins vs Knights](Penguin_vs_Knights.ipynb)
+* [Penguins vs Knights](Penguin_vs_Knights.ipynb)
 
 ## Presentation
 [Powerpoint Link](https://docs.google.com/presentation/d/1_HuBLA8ACb4mtjuBdI6Bzi95uaud7yhclkmHyCF1uDs/edit?usp=sharing)
